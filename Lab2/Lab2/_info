@@ -1,0 +1,138 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1651937758
+V]T;@L8=R0LbiKcAN?gM`j2
+04 13 4 work fp_adder__tb2 fast 0
+=1-d45d646336fd-627691da-378-940c
+Z1 o-quiet -auto_acc_if_foreign -work Lab2
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1647789569
+V7NbGWj<g>aS;56Ea]gHiU1
+04 12 4 work fp_adder__tb fast 0
+=1-d45d646336fd-62374600-190-4354
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1652091664
+VC5fZ6b^SAiYVWgKnKzbcE2
+04 13 4 work fp_adder__tb3 fast 0
+=1-d45d646336fd-6278eb0c-1bb-71e4
+R1
+R2
+n@_opt2
+R3
+vfp_adder
+Z4 !s110 1652091645
+!i10b 1
+!s100 0LOEoim[O7miE:^OJz5QB1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IF?BK>>9c;LMKkeH`<e=]o2
+Z6 dC:/Users/Salam/Desktop/Lab2
+w1647781523
+8C:/Users/Salam/Desktop/fp_adder.v
+FC:/Users/Salam/Desktop/fp_adder.v
+!i122 457
+L0 3 157
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1652091645.000000
+!s107 C:/Users/Salam/Desktop/fp_adder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Salam/Desktop/fp_adder.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfp_adder__tb
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1652091644
+!i10b 1
+!s100 70ZE0P:@dlVC;QcS8kgzA3
+R5
+I@AOHAc^j<R95<FDCj]G2X0
+S1
+R6
+w1647775749
+8C:/Users/Salam/Desktop/Lab2/fp_adder__tb.sv
+FC:/Users/Salam/Desktop/Lab2/fp_adder__tb.sv
+!i122 454
+L0 3 60
+R7
+R8
+r1
+!s85 0
+31
+Z11 !s108 1652091644.000000
+!s107 C:/Users/Salam/Desktop/Lab2/fp_adder__tb.sv|
+!s90 -reportprogress|300|-work|Lab2|-vopt|-sv|-stats=none|C:/Users/Salam/Desktop/Lab2/fp_adder__tb.sv|
+!i113 0
+o-work Lab2 -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfp_adder__tb2
+R10
+R4
+!i10b 1
+!s100 oJAZz16>;jgnf@Mh4:i:12
+R5
+IIXM=2g>R9PEH;W``_<bM@1
+S1
+R6
+w1647781930
+8C:/Users/Salam/Desktop/Lab2/fp_adder__tb2.sv
+FC:/Users/Salam/Desktop/Lab2/fp_adder__tb2.sv
+!i122 455
+L0 4 34
+R7
+R8
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Salam/Desktop/Lab2/fp_adder__tb2.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Salam/Desktop/Lab2/fp_adder__tb2.sv|
+!i113 0
+Z12 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vfp_adder__tb3
+R10
+R4
+!i10b 1
+!s100 LB7`D63R<GQJ_=o4j5KaZ2
+R5
+IlRT>8NZiM?7gIV2S8Y2:h0
+S1
+R6
+w1647783785
+8C:/Users/Salam/Desktop/Lab2/fp_adder__tb3.sv
+FC:/Users/Salam/Desktop/Lab2/fp_adder__tb3.sv
+!i122 456
+L0 3 136
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Salam/Desktop/Lab2/fp_adder__tb3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Salam/Desktop/Lab2/fp_adder__tb3.sv|
+!i113 0
+R12
+R2
